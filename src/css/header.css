@@ -4,6 +4,12 @@
   font-size: 14px;
 }
 
+.tabs-container{
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
 header {
   background-color: #f5f5f5;
   color: #212121;
