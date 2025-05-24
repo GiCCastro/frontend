@@ -26,7 +26,7 @@
       <!-- HEADER ESPECIAL -->
     <q-header class="header" v-else>
   <q-toolbar class="toolbar">
-    <q-tabs shrink class="tabs-container">
+    <q-tabs shrink class="tabs-container-secondary">
       <q-route-tab to="/home" label="Home" class="no-uppercase" />
       <q-route-tab to="/profile" label="Meu Perfil" class="no-uppercase" />
       <q-route-tab to="/request" label="Pedidos" class="no-uppercase" />
